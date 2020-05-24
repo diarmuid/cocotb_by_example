@@ -5,6 +5,7 @@
  
  
 # UART example
+https://github.com/JoseIuri/axi4lite2uart
 ## Drive and read signals
 ## Create a clock
 ## Create a driver
