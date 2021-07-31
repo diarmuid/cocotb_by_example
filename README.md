@@ -5,7 +5,7 @@
  
  
 # UART example
-https://github.com/JoseIuri/axi4lite2uart
+https://github.com/fcayci/vhdl-axis-uart
 ## Drive and read signals
 ## Create a clock
 ## Create a driver
